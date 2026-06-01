@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Plus, Trash2, MapPin, Hotel, Calendar, Sparkles, Check, Coffee, Plane } from 'lucide-react';
+import { Plus, Trash2, MapPin, Hotel, Sparkles, Check, Coffee, Plane } from 'lucide-react';
 import './ManagePackages.css';
 
 function ManagePackages() {

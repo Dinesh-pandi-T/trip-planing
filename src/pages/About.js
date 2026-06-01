@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  ShieldCheck, Compass, Sparkles, Award, Users, Globe,
+  ShieldCheck, Compass, Award, Globe,
   Heart, Headphones, Star, MapPin, TrendingUp, CheckCircle2,
   Plane, Clock, CreditCard, Smartphone
 } from 'lucide-react';
